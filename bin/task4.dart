@@ -5,7 +5,7 @@ import 'dart:io';
 
 void main() {
 
- // }
+ // SAMAAAA}
   // 2.Write a dart program to check whether a character is a vowel or consonant.
   print("Enter a character: ");
   String input = stdin.readLineSync()!;
